@@ -1,3 +1,3 @@
 This is our webapp.
-Requires Tibco JasperSoft Studio app to build report.
+It requires Tibco JasperSoft Studio appliction to create report.
 Thank You!
