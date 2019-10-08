@@ -1,3 +1,3 @@
-This is our webapp.
-It requires Tibco JasperSoft Studio appliction to create report.
+This is our webapp.(Developer : OTS Corporation)
+It requires Tibco JasperSoft Studio and JasperStarter appliction to create report.
 Thank You!
